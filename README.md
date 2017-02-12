@@ -14,7 +14,12 @@ It also possesses the capability to add attachments to the e-mails .
 The .exe file can be double-clicked and run seamlessly . It doesn't require any kind of installation .
 
 # Screenshots -
-Compose Body -
-[https://cloud.githubusercontent.com/assets/20648536/22864835/994f62f2-f17e-11e6-81b0-6aa250bfcece.JPG]
 
-![alt tag](https://cloud.githubusercontent.com/assets/20648536/22864835/994f62f2-f17e-11e6-81b0-6aa250bfcece.JPG)
+Welcome screen -
+![alt tag](https://cloud.githubusercontent.com/assets/20648536/22864901/ccef1aca-f17f-11e6-9cec-69ff371e08cc.JPG)
+
+Login screen -
+![alt tag](https://cloud.githubusercontent.com/assets/20648536/22864906/d2508ea4-f17f-11e6-8d75-2c4fac66cdb7.JPG)
+
+Compose screen -
+![alt tag](https://cloud.githubusercontent.com/assets/20648536/22864907/d2a3a33c-f17f-11e6-96d4-cfff1a3c36e6.JPG)

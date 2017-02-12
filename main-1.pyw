@@ -9,12 +9,11 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 import subprocess
 
-smtpObj=""
-window2=""
+
 attachments=[]#attachment list1
 index=""#attchment index
-emailLogin=""
-emailPass=""
+emailLogin=""#contains the login ID
+emailPass=""#contains the login password.
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """

@@ -14,3 +14,5 @@ It also possesses the capability to add attachments to the e-mails .
 The .exe file can be double-clicked and run seamlessly . It doesn't require any kind of installation .
 
 # Screenshots -
+Compose Body -
+[https://cloud.githubusercontent.com/assets/20648536/22864835/994f62f2-f17e-11e6-81b0-6aa250bfcece.JPG]

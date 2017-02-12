@@ -1,11 +1,8 @@
 import os,subprocess
 from tkinter import *
-#os.startfile('test.py'
 
-
-
+# process_status creates the loading screen used in between window switches .
 def process_status():
-    #global counter
     login_status=Tk()
     login_status.title(" ")
     login_status.geometry('{}x{}+{}+{}'.format(100,26, 578, 240))

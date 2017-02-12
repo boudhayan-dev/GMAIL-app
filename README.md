@@ -15,7 +15,7 @@ The .exe file can be double-clicked and run seamlessly . It doesn't require any 
 
 # Screenshots -
 
-Welcome screen -  ![alt tag](https://cloud.githubusercontent.com/assets/20648536/22864901/ccef1aca-f17f-11e6-9cec-69ff371e08cc.JPG)
+![Welcome](https://cloud.githubusercontent.com/assets/20648536/22864901/ccef1aca-f17f-11e6-9cec-69ff371e08cc.JPG)
 
 Login screen -    ![alt tag](https://cloud.githubusercontent.com/assets/20648536/22864906/d2508ea4-f17f-11e6-8d75-2c4fac66cdb7.JPG)
 

@@ -12,3 +12,5 @@ It also possesses the capability to add attachments to the e-mails .
 
 # Note -
 The .exe file can be double-clicked and run seamlessly . It doesn't require any kind of installation .
+
+# Screenshots -

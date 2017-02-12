@@ -23,4 +23,4 @@ The .exe file can be double-clicked and run seamlessly . It doesn't require any 
 
 # Video Demo -
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QRf08EIbRDE&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=QRf08EIbRDE&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/20648536/22865301/22fdf79a-f187-11e6-9fc4-b71a6176e1f9.JPG)](https://www.youtube.com/watch?v=QRf08EIbRDE&feature=youtu.be)
